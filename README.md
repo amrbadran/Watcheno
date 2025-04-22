@@ -46,3 +46,7 @@ Watcheno is a YouTube-like video-sharing platform tailored for Arabic-speaking u
 - Backend: PHP
 
 - Database: MySQL
+
+## Demo Video
+
+[Watch the Demo Video for Watcheno](https://drive.google.com/file/d/1xL_a_yk26Odu6gidOhxb4xzVmZ7IPspZ/view?usp=sharing)
