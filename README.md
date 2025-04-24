@@ -4,6 +4,8 @@
 
 # Watcheno 🎥
 
+![screenshot](screen.PNG)
+
 Watcheno is a YouTube-like video-sharing platform tailored for Arabic-speaking users. Built with PHP, MySQL, jQuery, JavaScript, Bootstrap, CSS, and AJAX, the platform enables users to create accounts, upload and interact with videos, and engage with a social video community.
 
 ## 🌐 Features
