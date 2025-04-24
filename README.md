@@ -1,3 +1,4 @@
+**NOTE: do not forget to see the Demo Below**
 > **📁 Archived Project:**  
 > This is an archived project I built during my school holiday, in the period **28 July 2019 – 31 August 2019**.
 
